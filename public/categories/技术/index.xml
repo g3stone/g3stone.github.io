@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>技术 on 我的技术博客</title>
+    <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on 我的技术博客</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客文章</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h1&gt;
+&lt;p&gt;这是我的第一篇使用 Hugo 创建的博客文章。Hugo 是一个强大的静态网站生成器，它可以帮助我们快速创建漂亮的博客网站。&lt;/p&gt;
+&lt;h2 id=&#34;为什么选择-hugo&#34;&gt;为什么选择 Hugo？&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;速度快：Hugo 是世界上构建速度最快的网站框架之一&lt;/li&gt;
+&lt;li&gt;简单易用：使用 Markdown 编写内容&lt;/li&gt;
+&lt;li&gt;功能丰富：支持主题、短代码、模板等&lt;/li&gt;
+&lt;li&gt;部署方便：可以轻松部署到 GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;接下来要做什么&#34;&gt;接下来要做什么？&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;学习更多 Hugo 的使用方法&lt;/li&gt;
+&lt;li&gt;自定义博客主题&lt;/li&gt;
+&lt;li&gt;添加更多文章&lt;/li&gt;
+&lt;li&gt;配置评论系统&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;希望这个博客能够记录我的技术学习之路！&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="欢迎来到我的博客">欢迎来到我的博客</h1>
+<p>这是我的第一篇使用 Hugo 创建的博客文章。Hugo 是一个强大的静态网站生成器，它可以帮助我们快速创建漂亮的博客网站。</p>
+<h2 id="为什么选择-hugo">为什么选择 Hugo？</h2>
+<ul>
+<li>速度快：Hugo 是世界上构建速度最快的网站框架之一</li>
+<li>简单易用：使用 Markdown 编写内容</li>
+<li>功能丰富：支持主题、短代码、模板等</li>
+<li>部署方便：可以轻松部署到 GitHub Pages</li>
+</ul>
+<h2 id="接下来要做什么">接下来要做什么？</h2>
+<ol>
+<li>学习更多 Hugo 的使用方法</li>
+<li>自定义博客主题</li>
+<li>添加更多文章</li>
+<li>配置评论系统</li>
+</ol>
+<p>希望这个博客能够记录我的技术学习之路！</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
