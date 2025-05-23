@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技术教程 on Stone 的个人博客</title><link>https://your-username.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</link><description>Recent content in 技术教程 on Stone 的个人博客</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://your-username.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo + GitHub Pages 博客搭建教程</title><link>https://your-username.github.io/posts/hugo-github-pages-blog-tutorial/</link><pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate><guid>https://your-username.github.io/posts/hugo-github-pages-blog-tutorial/</guid><description>&lt;p>在当今数字化时代，拥有一个个人技术博客是展示专业能力、分享技术见解的重要平台。本文将详细介绍如何使用 Hugo 静态网站生成器在 GitHub Pages 上搭建个人技术博客。&lt;/p>
+&lt;h2 id="为什么选择-hugo--github-pages">为什么选择 Hugo + GitHub Pages？&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Hugo 优势&lt;/strong>：&lt;/p>
+&lt;ul>
+&lt;li>极快的构建速度&lt;/li>
+&lt;li>简单易用的 Markdown 写作&lt;/li>
+&lt;li>丰富的主题和插件生态&lt;/li>
+&lt;li>强大的模板系统&lt;/li>
+&lt;li>无需数据库，纯静态文件&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>GitHub Pages 优势&lt;/strong>：&lt;/p>
+&lt;ul>
+&lt;li>完全免费&lt;/li>
+&lt;li>自动 HTTPS&lt;/li>
+&lt;li>与 Git 完美集成&lt;/li>
+&lt;li>全球 CDN 加速&lt;/li>
+&lt;li>自定义域名支持&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="环境准备">环境准备&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>安装 Hugo&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># macOS&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>brew install hugo
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Windows&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>choco install hugo
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Linux&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>snap install hugo
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>安装 Git&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># macOS&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>brew install git
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Windows&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>choco install git
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># Linux&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt-get install git
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ol>
+&lt;h2 id="创建博客站点">创建博客站点&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>创建新的 Hugo 站点&lt;/p></description></item></channel></rss>
