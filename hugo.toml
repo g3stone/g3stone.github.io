@@ -51,7 +51,7 @@ theme = "FixIt"
       # 主页显示头像的 title
       title = "Stone"
       # 主页显示的网站副标题
-      subtitle = "这是我的全新 Hugo 网站"
+      subtitle = "在这里分享一些技术和思考"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
